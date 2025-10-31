@@ -1,0 +1,38 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.form-header {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  width: 300px;
+  border-radius: 8px;
+}
+
+.bot-input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+}
+
+.form-details .bottom-line button {
+  margin: 5px;
+  padding: 6px 12px;
+}
+
+.job-status {
+  width: 100%;
+  padding: 6px;
+  margin: 12px 0;
+}
+
+.submit-data {
+  background-color: #1a2b6d;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+}
